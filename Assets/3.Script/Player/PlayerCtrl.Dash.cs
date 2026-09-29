@@ -1,6 +1,6 @@
 using UnityEngine;
 
-// 대시/바쉬/슈퍼점프 공용 트레일 제어 (대시 자체는 PlayerCtrl.State.cs 의 Dashing 상태)
+// 대시/바쉬/슈퍼점프 공용 트레일 제어 
 // 끄는 시각을 하나만 관리해서, 이전 요청이 새로 켠 트레일을 조기에 끄지 못하게 한다.
 public partial class PlayerCtrl
 {

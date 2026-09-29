@@ -1,7 +1,7 @@
 using UnityEngine;
 
-// 직렬화 필드는 인스펙터 표시 순서를 고정하기 위해 이 파일에만 둔다.
-// 기능별 로직은 PlayerCtrl.*.cs (partial) 로 분리되어 있다.
+
+// 기능별 로직은 PlayerCtrl.*.cs (partial) 로 분리
 public partial class PlayerCtrl : MonoBehaviour
 {
     [SerializeField] private Transform modelTransform;
