@@ -68,13 +68,18 @@ flowchart LR
     K --> F
 ```
 
+<div align="center">
+<img src="Docs/Images/stage_clear.gif" width="600" alt="스테이지 클리어"/>
+<br/><sub>목표 처치 수 달성 시 경계벽이 해제되며 다음 스테이지로 진행</sub>
+</div>
+
 <br/>
 
 ## ⚙️ 핵심 시스템
 
 ### 01. 인트로 연출 · `IntroSequence.cs`
 
-<img src="Docs/Images/intro.jpg" width="600" alt="인트로 연출"/>
+<img src="Docs/Images/intro.gif" width="600" alt="인트로 연출"/>
 
 스팀 게임 특유의 시작 화면 연출을 재현했습니다.
 
@@ -108,7 +113,7 @@ flowchart LR
 <table>
 <tr>
 <td><img src="Docs/Images/attack_spread.png" width="400" alt="일반 공격"/></td>
-<td><img src="Docs/Images/charge_explosion.jpg" width="400" alt="차지 폭발"/></td>
+<td><img src="Docs/Images/charge_attack.gif" width="400" alt="차지 폭발"/></td>
 </tr>
 </table>
 
@@ -123,7 +128,7 @@ flowchart LR
 
 ### 04. 카메라 시스템 · `CameraCtrl.cs`
 
-<img src="Docs/Images/camera_peek.jpg" width="600" alt="카메라 미리보기"/>
+<img src="Docs/Images/camera_peek.gif" width="600" alt="카메라 미리보기"/>
 
 - 룩어헤드(Look-ahead) + Y축 데드존으로 수직 이동 시 흔들림 최소화
 - 배경 기준 맵 경계값을 자동 계산해 스테이지 밖이 보이지 않도록 제한
@@ -148,7 +153,7 @@ flowchart LR
 <table>
 <tr>
 <td><img src="Docs/Images/savepoint_tutorial.jpg" width="400" alt="세이브 포인트 튜토리얼"/></td>
-<td><img src="Docs/Images/savepoint_gauge.png" width="400" alt="세이브 게이지"/></td>
+<td><img src="Docs/Images/checkpoint_restore.gif" width="400" alt="게임오버 후 체크포인트 복원"/></td>
 </tr>
 </table>
 
@@ -166,7 +171,7 @@ flowchart LR
 <table>
 <tr>
 <td><img src="Docs/Images/bash_tutorial.png" width="400" alt="바쉬 튜토리얼"/></td>
-<td><img src="Docs/Images/bash.jpg" width="400" alt="바쉬"/></td>
+<td><img src="Docs/Images/bash.gif" width="400" alt="바쉬"/></td>
 </tr>
 </table>
 
@@ -210,7 +215,12 @@ flowchart LR
 
 ### 10. 게임 매니저 & 씬 관리 · `GameManager` / `SceneTransitionMgr`
 
-<img src="Docs/Images/level_builder.png" width="360" alt="레벨 빌더 에디터 툴"/>
+<table>
+<tr>
+<td><img src="Docs/Images/item_magnet.gif" width="400" alt="아이템 자석 흡수"/></td>
+<td><img src="Docs/Images/level_builder.png" width="360" alt="레벨 빌더 에디터 툴"/></td>
+</tr>
+</table>
 
 - `AcquireFreeze()` / `ReleaseFreeze()` **카운터 패턴**으로 여러 시스템이 동시에 시간을 멈춰도 충돌하지 않도록 처리
 - `GameEvents` 정적 이벤트 허브로 매니저 간 직접 참조 최소화
