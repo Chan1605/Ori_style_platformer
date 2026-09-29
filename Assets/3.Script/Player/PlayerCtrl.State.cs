@@ -9,6 +9,7 @@ public enum PlayerState
     BashAim,     // 슬로모션 조준 중
     BashBurst,   // 바쉬 발사 중
     KnockedBack,
+    Dead,        // 사망 (되돌아가는 상태 없음, 씬 재로드로만 복구)
 }
 
 // 상태 전환 규칙은 이 파일에서만 관리한다.

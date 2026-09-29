@@ -11,7 +11,10 @@ public class PlayerHealth : MonoBehaviour, IDamageable
     [SerializeField] private GameObject[] heartIcons;
     [SerializeField] private float invincibilityDuration = 1f;
     private int currentHealth;
-    [SerializeField] private bool isInvincible;
+    // 무적 원인을 분리해서 서로의 종료가 상대 무적을 풀지 않게 한다.
+    [SerializeField] private bool isInvincible;   // 외부 요청(바쉬 등) - SetInvincible 로만 변경
+    private bool isHitInvincible;                 // 피격 직후 무적 - InvincibilityRoutine 이 관리
+    public bool IsInvincible => isInvincible || isHitInvincible;
     [Header("---- 스킬 게이지 ----")]
     [SerializeField] private int maxSkillGauge = 5;
     [SerializeField] private GameObject[] skillGaugeIcons;
@@ -38,6 +41,10 @@ public class PlayerHealth : MonoBehaviour, IDamageable
     [SerializeField] private float flashDuration = 0.15f;
     [SerializeField] private Color flashColor = Color.red;
     private MaterialPropertyBlock flashBlock;
+    private static readonly int BaseColorId = Shader.PropertyToID("_BaseColor");
+    private static readonly int AnimHit = Animator.StringToHash("Hit");
+    private static readonly int AnimIsDead = Animator.StringToHash("IsDead");
+    private static readonly int AnimDie = Animator.StringToHash("Die");
 
     private Animator animator;
     private PlayerCtrl playerCtrl;
@@ -74,6 +81,12 @@ public class PlayerHealth : MonoBehaviour, IDamageable
     {
         if (GameManager.inst != null && GameManager.inst.IsInputLocked) return;
 
+        UpdateCheckpointInput();
+    }
+
+    // 체크포인트 키를 checkpointHoldTime 만큼 누르고 있으면 생성
+    private void UpdateCheckpointInput()
+    {
         if (Input.GetKey(createCheckpointKey))
         {
             if (CanCreateCheckpoint())
@@ -104,7 +117,7 @@ public class PlayerHealth : MonoBehaviour, IDamageable
         ApplyCheckpointState(snap.health, snap.skillGauge, snap.checkpointGauge, snap.accumulatedSouls);
     }
 
-    public void SetInvincible(bool value) //바쉬 중 무적처리하기
+    public void SetInvincible(bool value) // 바쉬 중 무적처리하기 (피격 무적과는 별개)
     {
         isInvincible = value;
     }
@@ -213,12 +226,12 @@ public class PlayerHealth : MonoBehaviour, IDamageable
 
     public void TakeDamage(int damage)
     {
-        if (isInvincible || playerCtrl.IsDie) 
+        if (IsInvincible || (playerCtrl != null && playerCtrl.IsDie))
             return;
         TutorialMgr.Instance?.RequestShow(TutorialIds.Bash);
         currentHealth = Mathf.Max(currentHealth - damage, 0);
         UpdateHeartsUI();
-        animator.SetTrigger("Hit");
+        animator.SetTrigger(AnimHit);
         StartCoroutine(FlashRoutine());
 
         if (currentHealth <= 0)
@@ -237,7 +250,7 @@ public class PlayerHealth : MonoBehaviour, IDamageable
         foreach (var r in flashRenderers)
         {
             r.GetPropertyBlock(flashBlock);
-            flashBlock.SetColor("_BaseColor", flashColor);
+            flashBlock.SetColor(BaseColorId, flashColor);
             r.SetPropertyBlock(flashBlock);
         }
 
@@ -246,7 +259,7 @@ public class PlayerHealth : MonoBehaviour, IDamageable
         foreach (var r in flashRenderers)
         {
             r.GetPropertyBlock(flashBlock);
-            flashBlock.SetColor("_BaseColor", Color.white);
+            flashBlock.SetColor(BaseColorId, Color.white);
             r.SetPropertyBlock(flashBlock);
         }
     }
@@ -269,9 +282,9 @@ public class PlayerHealth : MonoBehaviour, IDamageable
 
     private IEnumerator InvincibilityRoutine()
     {
-        isInvincible = true;
+        isHitInvincible = true;
         yield return new WaitForSeconds(invincibilityDuration);
-        isInvincible = false;
+        isHitInvincible = false;
     }
 
     public void Heal(int amount)
@@ -301,10 +314,13 @@ public class PlayerHealth : MonoBehaviour, IDamageable
 
     private void Die()
     {
-        playerCtrl.Kill();
-        animator.SetBool("IsDead", true);
-        animator.SetTrigger("Die");
-        if (playerCtrl != null) playerCtrl.enabled = false; //조작 정지
+        animator.SetBool(AnimIsDead, true);
+        animator.SetTrigger(AnimDie);
+        if (playerCtrl != null)
+        {
+            playerCtrl.Kill();
+            playerCtrl.enabled = false; //조작 정지
+        }
         gameObject.layer = LayerMask.NameToLayer(deadLayerName);
         GameEvents.Player.RaiseDied();
     }

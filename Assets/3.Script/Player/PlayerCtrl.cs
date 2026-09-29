@@ -73,7 +73,6 @@ public partial class PlayerCtrl : MonoBehaviour
     [SerializeField] private float knockbackForceX = 6f;
     [SerializeField] private float knockbackForceY = 4f;
     [SerializeField] private float knockbackLockDuration = 0.2f;
-    private bool isDie;
 
     [Header("---- UI 및 효과 ----")]
     public RectTransform arrowSprite;
@@ -100,7 +99,7 @@ public partial class PlayerCtrl : MonoBehaviour
     public bool IsDashing => state == PlayerState.Dashing;
     public bool IsBashing => state is PlayerState.BashAim or PlayerState.BashBurst;
     public bool IsGrounded => isGrounded;
-    public bool IsDie => isDie;
+    public bool IsDie => state == PlayerState.Dead;
     public float FacingDirection { get; private set; } = 1f;
 
     private Rigidbody2D rb;
@@ -305,7 +304,8 @@ public partial class PlayerCtrl : MonoBehaviour
 
     public void Kill()
     {
-        isDie = true;
+        ChangeState(PlayerState.Dead); // 진행 중이던 상태의 퇴장 처리(슬로모션/무적/애니메이터 복구)
+        SetDashTrails(false);          // 이후 이 컴포넌트가 비활성화되어 TickTrails 가 돌지 않으므로 즉시 끈다
     }
 
 }
