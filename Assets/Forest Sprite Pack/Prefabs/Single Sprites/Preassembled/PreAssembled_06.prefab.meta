@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 45a756381a7627b439c697c12f040123
+timeCreated: 1533925715
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85564
+  packageName: Forest Sprite Pack
+  packageVersion: 2.1
+  assetPath: Assets/Forest Sprite Pack/Prefabs/Single Sprites/Preassembled/PreAssembled_06.prefab
+  uploadId: 302623

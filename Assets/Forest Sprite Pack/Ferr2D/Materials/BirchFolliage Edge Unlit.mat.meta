@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: efb5bfd46f1bce14881d4ac79314e7d0
+timeCreated: 1529019545
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85564
+  packageName: Forest Sprite Pack
+  packageVersion: 2.1
+  assetPath: Assets/Forest Sprite Pack/Ferr2D/Materials/BirchFolliage Edge Unlit.mat
+  uploadId: 302623

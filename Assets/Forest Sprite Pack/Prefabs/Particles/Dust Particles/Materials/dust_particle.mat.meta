@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 77f04bba8f4ef5441b62bce7baf5e2a7
+timeCreated: 1442531886
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85564
+  packageName: Forest Sprite Pack
+  packageVersion: 2.1
+  assetPath: Assets/Forest Sprite Pack/Prefabs/Particles/Dust Particles/Materials/dust_particle.mat
+  uploadId: 302623

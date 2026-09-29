@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a8a421a68e41e194f89b1a50e43abbdb
+timeCreated: 1530917189
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85564
+  packageName: Forest Sprite Pack
+  packageVersion: 2.1
+  assetPath: Assets/Forest Sprite Pack/Ferr2D/Terrain Materials/TreeFolliage Lit
+    Ferr2DMaterial.asset
+  uploadId: 302623

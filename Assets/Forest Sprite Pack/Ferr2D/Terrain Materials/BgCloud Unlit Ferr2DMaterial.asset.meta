@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6daa1599e89917941bc9dada7f69b6a5
+timeCreated: 1531772299
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85564
+  packageName: Forest Sprite Pack
+  packageVersion: 2.1
+  assetPath: Assets/Forest Sprite Pack/Ferr2D/Terrain Materials/BgCloud Unlit Ferr2DMaterial.asset
+  uploadId: 302623

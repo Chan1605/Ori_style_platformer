@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8f01ec7c9b958e74da84339939a89d19
+timeCreated: 1503075236
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85564
+  packageName: Forest Sprite Pack
+  packageVersion: 2.1
+  assetPath: Assets/Forest Sprite Pack/Scripts/Hazards and Obstacles Update 05/FalseFloor.cs
+  uploadId: 302623

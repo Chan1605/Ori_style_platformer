@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7f3896969f19c104c85d72d2fd05f3eb
+timeCreated: 1502753253
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85564
+  packageName: Forest Sprite Pack
+  packageVersion: 2.1
+  assetPath: Assets/Forest Sprite Pack/Scenes/Playable Demo Scene/2D Character Controller/Prefabs/Main
+    Camera.prefab
+  uploadId: 302623

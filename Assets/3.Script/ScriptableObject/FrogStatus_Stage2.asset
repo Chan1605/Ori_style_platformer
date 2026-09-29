@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a685efb456dcbc49b3834bd9830b350, type: 3}
+  m_Name: FrogStatus_Stage2
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyStatus
+  drops:
+  - itemPrefabs:
+    - {fileID: 507824425084100, guid: 441a2a41068f3a346bf73a3dc9573b36, type: 3}
+    - {fileID: 7054385137978049510, guid: c321ca94cbf04de4cadc441792983bac, type: 3}
+    - {fileID: 893766525992582990, guid: d41ba3f2228604e8f8d0c399709b02f1, type: 3}
+    dropChance: 1
+    minAmount: 1
+    maxAmount: 5
+  maxHp: 10
+  moveSpeed: 0
+  damage: 1
+  detectRange: 10
+  attackRange: 50
+  attackCooldown: 0.8

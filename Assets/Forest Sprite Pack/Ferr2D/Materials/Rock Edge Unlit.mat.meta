@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9ac24a1361c707b41a4a67c30927dcb8
+timeCreated: 1529019545
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85564
+  packageName: Forest Sprite Pack
+  packageVersion: 2.1
+  assetPath: Assets/Forest Sprite Pack/Ferr2D/Materials/Rock Edge Unlit.mat
+  uploadId: 302623

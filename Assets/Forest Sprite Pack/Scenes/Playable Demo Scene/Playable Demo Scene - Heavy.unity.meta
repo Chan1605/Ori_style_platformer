@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3b55f993d3895024f87e2e8f302b6066
+timeCreated: 1525558752
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85564
+  packageName: Forest Sprite Pack
+  packageVersion: 2.1
+  assetPath: Assets/Forest Sprite Pack/Scenes/Playable Demo Scene/Playable Demo Scene
+    - Heavy.unity
+  uploadId: 302623

@@ -1,0 +1,5739 @@
+fileFormatVersion: 2
+guid: 1149f64285cb6b34c8b3a81a81f43d46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2936960778382239900
+    second: northMangroveFallsTexturesAtlas0_0
+  - first:
+      213: 816787459894416646
+    second: northMangroveFallsTexturesAtlas0_1
+  - first:
+      213: 4076668848470934463
+    second: northMangroveFallsTexturesAtlas0_2
+  - first:
+      213: 5307012818276797078
+    second: northMangroveFallsTexturesAtlas0_3
+  - first:
+      213: -7366863943709718255
+    second: northMangroveFallsTexturesAtlas0_4
+  - first:
+      213: -1788277474613578871
+    second: northMangroveFallsTexturesAtlas0_5
+  - first:
+      213: -4760644798263194219
+    second: northMangroveFallsTexturesAtlas0_6
+  - first:
+      213: -2527925402821030580
+    second: northMangroveFallsTexturesAtlas0_7
+  - first:
+      213: 2488378024850845287
+    second: northMangroveFallsTexturesAtlas0_8
+  - first:
+      213: -8526301426563871966
+    second: northMangroveFallsTexturesAtlas0_9
+  - first:
+      213: -3965626301548109922
+    second: northMangroveFallsTexturesAtlas0_10
+  - first:
+      213: -1165781993325830389
+    second: northMangroveFallsTexturesAtlas0_11
+  - first:
+      213: 7896643365406224399
+    second: northMangroveFallsTexturesAtlas0_12
+  - first:
+      213: -7358985696467640792
+    second: northMangroveFallsTexturesAtlas0_13
+  - first:
+      213: 7275302200638295826
+    second: northMangroveFallsTexturesAtlas0_14
+  - first:
+      213: 90818527539461048
+    second: northMangroveFallsTexturesAtlas0_15
+  - first:
+      213: 5397683575871507703
+    second: northMangroveFallsTexturesAtlas0_16
+  - first:
+      213: -7495345483009385276
+    second: northMangroveFallsTexturesAtlas0_17
+  - first:
+      213: -6610161264492298994
+    second: northMangroveFallsTexturesAtlas0_18
+  - first:
+      213: -5677293027521565490
+    second: northMangroveFallsTexturesAtlas0_19
+  - first:
+      213: 1148332645559901580
+    second: northMangroveFallsTexturesAtlas0_20
+  - first:
+      213: 5958068998265098016
+    second: northMangroveFallsTexturesAtlas0_21
+  - first:
+      213: 988651423216596403
+    second: northMangroveFallsTexturesAtlas0_22
+  - first:
+      213: 6180605446245376382
+    second: northMangroveFallsTexturesAtlas0_23
+  - first:
+      213: 1417346293618365726
+    second: northMangroveFallsTexturesAtlas0_24
+  - first:
+      213: 2135713491683027924
+    second: northMangroveFallsTexturesAtlas0_25
+  - first:
+      213: -5610770462768612654
+    second: northMangroveFallsTexturesAtlas0_26
+  - first:
+      213: -1725985454704686126
+    second: northMangroveFallsTexturesAtlas0_27
+  - first:
+      213: 8363585177222684380
+    second: northMangroveFallsTexturesAtlas0_28
+  - first:
+      213: -1390018789247787908
+    second: northMangroveFallsTexturesAtlas0_29
+  - first:
+      213: 4544139313392163368
+    second: northMangroveFallsTexturesAtlas0_30
+  - first:
+      213: -358504950632126103
+    second: northMangroveFallsTexturesAtlas0_31
+  - first:
+      213: -549529187947311769
+    second: northMangroveFallsTexturesAtlas0_32
+  - first:
+      213: 2734425771066059111
+    second: northMangroveFallsTexturesAtlas0_33
+  - first:
+      213: -844136846075456053
+    second: northMangroveFallsTexturesAtlas0_34
+  - first:
+      213: 5033438776811535841
+    second: northMangroveFallsTexturesAtlas0_35
+  - first:
+      213: 607704984393306107
+    second: northMangroveFallsTexturesAtlas0_36
+  - first:
+      213: 2379140134668988195
+    second: northMangroveFallsTexturesAtlas0_37
+  - first:
+      213: 8409328495768868503
+    second: northMangroveFallsTexturesAtlas0_38
+  - first:
+      213: 2022019107137633755
+    second: northMangroveFallsTexturesAtlas0_39
+  - first:
+      213: 4456759785250442306
+    second: northMangroveFallsTexturesAtlas0_40
+  - first:
+      213: -271022447007938141
+    second: northMangroveFallsTexturesAtlas0_41
+  - first:
+      213: 8958797573126294870
+    second: northMangroveFallsTexturesAtlas0_42
+  - first:
+      213: -1180540563185274732
+    second: northMangroveFallsTexturesAtlas0_43
+  - first:
+      213: 2394540475618283712
+    second: northMangroveFallsTexturesAtlas0_44
+  - first:
+      213: 775222793395483042
+    second: northMangroveFallsTexturesAtlas0_45
+  - first:
+      213: -2424586508376848985
+    second: northMangroveFallsTexturesAtlas0_46
+  - first:
+      213: 8981914052228890773
+    second: northMangroveFallsTexturesAtlas0_47
+  - first:
+      213: -5005695817455861750
+    second: northMangroveFallsTexturesAtlas0_48
+  - first:
+      213: -4612171874851252239
+    second: northMangroveFallsTexturesAtlas0_49
+  - first:
+      213: -215311429228353276
+    second: northMangroveFallsTexturesAtlas0_50
+  - first:
+      213: 7552045448213137426
+    second: northMangroveFallsTexturesAtlas0_51
+  - first:
+      213: 8287448156666857364
+    second: northMangroveFallsTexturesAtlas0_52
+  - first:
+      213: 2845190437189789304
+    second: northMangroveFallsTexturesAtlas0_53
+  - first:
+      213: 5657065488363307213
+    second: northMangroveFallsTexturesAtlas0_54
+  - first:
+      213: 4815048114668631377
+    second: northMangroveFallsTexturesAtlas0_55
+  - first:
+      213: 3830949712532784155
+    second: northMangroveFallsTexturesAtlas0_56
+  - first:
+      213: -9108678290713089800
+    second: northMangroveFallsTexturesAtlas0_57
+  - first:
+      213: -5574637917206432322
+    second: northMangroveFallsTexturesAtlas0_58
+  - first:
+      213: 1857464853543673642
+    second: northMangroveFallsTexturesAtlas0_59
+  - first:
+      213: 2909478222969744209
+    second: northMangroveFallsTexturesAtlas0_60
+  - first:
+      213: 8973789611410244046
+    second: northMangroveFallsTexturesAtlas0_61
+  - first:
+      213: -1612327993469770811
+    second: northMangroveFallsTexturesAtlas0_62
+  - first:
+      213: 3259589787852285227
+    second: northMangroveFallsTexturesAtlas0_63
+  - first:
+      213: -2526709082788559628
+    second: northMangroveFallsTexturesAtlas0_64
+  - first:
+      213: -4197128447556266674
+    second: northMangroveFallsTexturesAtlas0_65
+  - first:
+      213: 6558756805719472172
+    second: northMangroveFallsTexturesAtlas0_66
+  - first:
+      213: 8071216100774535705
+    second: northMangroveFallsTexturesAtlas0_67
+  - first:
+      213: 5371019493585919528
+    second: northMangroveFallsTexturesAtlas0_68
+  - first:
+      213: 6704012727220474651
+    second: northMangroveFallsTexturesAtlas0_69
+  - first:
+      213: 6794205230181404621
+    second: northMangroveFallsTexturesAtlas0_70
+  - first:
+      213: -9184754246727103290
+    second: northMangroveFallsTexturesAtlas0_71
+  - first:
+      213: -5536525142157290850
+    second: northMangroveFallsTexturesAtlas0_72
+  - first:
+      213: 3789845516585106026
+    second: northMangroveFallsTexturesAtlas0_73
+  - first:
+      213: 1332399660959718278
+    second: northMangroveFallsTexturesAtlas0_74
+  - first:
+      213: 7382153029052789441
+    second: northMangroveFallsTexturesAtlas0_75
+  - first:
+      213: -7029193419983517398
+    second: northMangroveFallsTexturesAtlas0_76
+  - first:
+      213: 2921323952400952716
+    second: northMangroveFallsTexturesAtlas0_77
+  - first:
+      213: -2478097081518416091
+    second: northMangroveFallsTexturesAtlas0_78
+  - first:
+      213: -4937188376017853958
+    second: northMangroveFallsTexturesAtlas0_79
+  - first:
+      213: -8316873065920780165
+    second: northMangroveFallsTexturesAtlas0_80
+  - first:
+      213: -3544253175600426207
+    second: northMangroveFallsTexturesAtlas0_81
+  - first:
+      213: -701412604458184267
+    second: northMangroveFallsTexturesAtlas0_82
+  - first:
+      213: -1968004211417382402
+    second: northMangroveFallsTexturesAtlas0_83
+  - first:
+      213: -261347379509191660
+    second: northMangroveFallsTexturesAtlas0_84
+  - first:
+      213: -6413458887997749545
+    second: northMangroveFallsTexturesAtlas0_85
+  - first:
+      213: -9194124099109115377
+    second: northMangroveFallsTexturesAtlas0_86
+  - first:
+      213: 2221951993799536842
+    second: northMangroveFallsTexturesAtlas0_87
+  - first:
+      213: -9066258931576864305
+    second: northMangroveFallsTexturesAtlas0_88
+  - first:
+      213: 1411443224303236071
+    second: northMangroveFallsTexturesAtlas0_89
+  - first:
+      213: -7786359753211873358
+    second: northMangroveFallsTexturesAtlas0_90
+  - first:
+      213: 250234931270416934
+    second: northMangroveFallsTexturesAtlas0_91
+  - first:
+      213: -6638136215320627110
+    second: northMangroveFallsTexturesAtlas0_92
+  - first:
+      213: -1353689785262288804
+    second: northMangroveFallsTexturesAtlas0_93
+  - first:
+      213: -3031615934155198818
+    second: northMangroveFallsTexturesAtlas0_94
+  - first:
+      213: -7341843107246870344
+    second: northMangroveFallsTexturesAtlas0_95
+  - first:
+      213: -7762953922894007873
+    second: northMangroveFallsTexturesAtlas0_96
+  - first:
+      213: 8259704820457336487
+    second: northMangroveFallsTexturesAtlas0_97
+  - first:
+      213: -6795481267645703714
+    second: northMangroveFallsTexturesAtlas0_98
+  - first:
+      213: -877935365880349593
+    second: northMangroveFallsTexturesAtlas0_99
+  - first:
+      213: -1056444494281676447
+    second: northMangroveFallsTexturesAtlas0_100
+  - first:
+      213: 5338933810369615191
+    second: northMangroveFallsTexturesAtlas0_101
+  - first:
+      213: -2708249116630561239
+    second: northMangroveFallsTexturesAtlas0_102
+  - first:
+      213: 8026269382165767379
+    second: northMangroveFallsTexturesAtlas0_103
+  - first:
+      213: -2515112075092930681
+    second: northMangroveFallsTexturesAtlas0_104
+  - first:
+      213: -441564666042242895
+    second: northMangroveFallsTexturesAtlas0_105
+  - first:
+      213: -2532538885563333980
+    second: northMangroveFallsTexturesAtlas0_106
+  - first:
+      213: -5862671541805238306
+    second: northMangroveFallsTexturesAtlas0_107
+  - first:
+      213: 8062367615891401979
+    second: northMangroveFallsTexturesAtlas0_108
+  - first:
+      213: 6951473797303444234
+    second: northMangroveFallsTexturesAtlas0_109
+  - first:
+      213: -6282010975954671759
+    second: northMangroveFallsTexturesAtlas0_110
+  - first:
+      213: -2807573051449806147
+    second: northMangroveFallsTexturesAtlas0_111
+  - first:
+      213: 3553073633948692286
+    second: northMangroveFallsTexturesAtlas0_112
+  - first:
+      213: 8785516274841205381
+    second: northMangroveFallsTexturesAtlas0_113
+  - first:
+      213: -890672304771454812
+    second: northMangroveFallsTexturesAtlas0_114
+  - first:
+      213: -319565968579793761
+    second: northMangroveFallsTexturesAtlas0_115
+  - first:
+      213: 5654946600799406027
+    second: northMangroveFallsTexturesAtlas0_116
+  - first:
+      213: 5082195536831645630
+    second: northMangroveFallsTexturesAtlas0_117
+  - first:
+      213: 896304784124352134
+    second: northMangroveFallsTexturesAtlas0_118
+  - first:
+      213: -9089519786479956199
+    second: northMangroveFallsTexturesAtlas0_119
+  - first:
+      213: 8434524102698218212
+    second: northMangroveFallsTexturesAtlas0_120
+  - first:
+      213: 3740152862964399265
+    second: northMangroveFallsTexturesAtlas0_121
+  - first:
+      213: 3031743480213114460
+    second: northMangroveFallsTexturesAtlas0_122
+  - first:
+      213: 6991551863910699628
+    second: northMangroveFallsTexturesAtlas0_123
+  - first:
+      213: 507752578121814393
+    second: northMangroveFallsTexturesAtlas0_124
+  - first:
+      213: -1007760580042903627
+    second: northMangroveFallsTexturesAtlas0_125
+  - first:
+      213: 8478442108873494333
+    second: northMangroveFallsTexturesAtlas0_126
+  - first:
+      213: -2210653456461447743
+    second: northMangroveFallsTexturesAtlas0_127
+  - first:
+      213: 5768983404255009318
+    second: northMangroveFallsTexturesAtlas0_128
+  - first:
+      213: 1336494469091682451
+    second: northMangroveFallsTexturesAtlas0_129
+  - first:
+      213: -428713882556896867
+    second: northMangroveFallsTexturesAtlas0_130
+  - first:
+      213: 772907974151396439
+    second: northMangroveFallsTexturesAtlas0_131
+  - first:
+      213: -4723733627748234139
+    second: northMangroveFallsTexturesAtlas0_132
+  - first:
+      213: -2956518604752116105
+    second: northMangroveFallsTexturesAtlas0_133
+  - first:
+      213: 3018280972526685809
+    second: northMangroveFallsTexturesAtlas0_134
+  - first:
+      213: 1419493994080955237
+    second: northMangroveFallsTexturesAtlas0_135
+  - first:
+      213: -4748739943810906031
+    second: northMangroveFallsTexturesAtlas0_136
+  - first:
+      213: -7721381258401638984
+    second: northMangroveFallsTexturesAtlas0_137
+  - first:
+      213: 5428085213003001449
+    second: northMangroveFallsTexturesAtlas0_138
+  - first:
+      213: -526891399613521499
+    second: northMangroveFallsTexturesAtlas0_139
+  - first:
+      213: 4805326821426006846
+    second: northMangroveFallsTexturesAtlas0_140
+  - first:
+      213: 8663601473083727865
+    second: northMangroveFallsTexturesAtlas0_141
+  - first:
+      213: 5238030755918024642
+    second: northMangroveFallsTexturesAtlas0_142
+  - first:
+      213: -4799191068130405539
+    second: northMangroveFallsTexturesAtlas0_143
+  - first:
+      213: -7722406506852308087
+    second: northMangroveFallsTexturesAtlas0_144
+  - first:
+      213: -2393943845378229232
+    second: northMangroveFallsTexturesAtlas0_145
+  - first:
+      213: 3944347850310866530
+    second: northMangroveFallsTexturesAtlas0_146
+  - first:
+      213: -4147045435809602402
+    second: northMangroveFallsTexturesAtlas0_147
+  - first:
+      213: -8429731133188778710
+    second: northMangroveFallsTexturesAtlas0_148
+  - first:
+      213: 5870712611563939025
+    second: northMangroveFallsTexturesAtlas0_149
+  - first:
+      213: 5200765265355656469
+    second: northMangroveFallsTexturesAtlas0_150
+  - first:
+      213: 5342830184693359114
+    second: northMangroveFallsTexturesAtlas0_151
+  - first:
+      213: -7583325275442236440
+    second: northMangroveFallsTexturesAtlas0_152
+  - first:
+      213: 498320286290327135
+    second: northMangroveFallsTexturesAtlas0_153
+  - first:
+      213: -1302149538792381024
+    second: northMangroveFallsTexturesAtlas0_154
+  - first:
+      213: -8520655186058960950
+    second: northMangroveFallsTexturesAtlas0_155
+  - first:
+      213: 6194903784383286414
+    second: northMangroveFallsTexturesAtlas0_156
+  - first:
+      213: -6168059663446887135
+    second: northMangroveFallsTexturesAtlas0_157
+  - first:
+      213: 1771541132968880409
+    second: northMangroveFallsTexturesAtlas0_158
+  - first:
+      213: 110182298854393288
+    second: northMangroveFallsTexturesAtlas0_159
+  - first:
+      213: -4974528761045727704
+    second: northMangroveFallsTexturesAtlas0_160
+  - first:
+      213: -6508734098719631317
+    second: northMangroveFallsTexturesAtlas0_161
+  - first:
+      213: -244152373440088791
+    second: northMangroveFallsTexturesAtlas0_162
+  - first:
+      213: 1389406311527525330
+    second: northMangroveFallsTexturesAtlas0_163
+  - first:
+      213: -8523653376509868562
+    second: northMangroveFallsTexturesAtlas0_164
+  - first:
+      213: 5343526360207337760
+    second: northMangroveFallsTexturesAtlas0_165
+  - first:
+      213: 9203749937732497864
+    second: northMangroveFallsTexturesAtlas0_166
+  - first:
+      213: -1519633378483772545
+    second: northMangroveFallsTexturesAtlas0_167
+  - first:
+      213: 7209044904588570959
+    second: northMangroveFallsTexturesAtlas0_168
+  - first:
+      213: 5899030411709588768
+    second: northMangroveFallsTexturesAtlas0_169
+  - first:
+      213: 5386941733030866058
+    second: northMangroveFallsTexturesAtlas0_170
+  - first:
+      213: 7287091022136368338
+    second: northMangroveFallsTexturesAtlas0_171
+  - first:
+      213: -2393647418504123758
+    second: northMangroveFallsTexturesAtlas0_172
+  - first:
+      213: -8470653370479651061
+    second: northMangroveFallsTexturesAtlas0_173
+  - first:
+      213: 6026240323665330790
+    second: northMangroveFallsTexturesAtlas0_174
+  - first:
+      213: -7219658945866848441
+    second: northMangroveFallsTexturesAtlas0_175
+  - first:
+      213: 8172000241370317213
+    second: northMangroveFallsTexturesAtlas0_176
+  - first:
+      213: -593446782914889705
+    second: northMangroveFallsTexturesAtlas0_177
+  - first:
+      213: -6779364281227611403
+    second: northMangroveFallsTexturesAtlas0_178
+  - first:
+      213: -1981946754720314968
+    second: northMangroveFallsTexturesAtlas0_179
+  - first:
+      213: 4121395810250768908
+    second: northMangroveFallsTexturesAtlas0_180
+  - first:
+      213: -2824007444534748949
+    second: northMangroveFallsTexturesAtlas0_181
+  - first:
+      213: -1902691599176656933
+    second: northMangroveFallsTexturesAtlas0_182
+  - first:
+      213: -5993529289764983909
+    second: northMangroveFallsTexturesAtlas0_183
+  - first:
+      213: 8845439080521773005
+    second: northMangroveFallsTexturesAtlas0_184
+  - first:
+      213: -1149027500188460578
+    second: northMangroveFallsTexturesAtlas0_185
+  - first:
+      213: -5666743560879162424
+    second: northMangroveFallsTexturesAtlas0_186
+  - first:
+      213: 1859233253105445971
+    second: northMangroveFallsTexturesAtlas0_187
+  - first:
+      213: 8285725362480922000
+    second: northMangroveFallsTexturesAtlas0_188
+  - first:
+      213: -8111772135101795801
+    second: northMangroveFallsTexturesAtlas0_189
+  - first:
+      213: -648909448830892375
+    second: northMangroveFallsTexturesAtlas0_190
+  - first:
+      213: -4026527994065919543
+    second: northMangroveFallsTexturesAtlas0_191
+  - first:
+      213: 49685202012145101
+    second: northMangroveFallsTexturesAtlas0_192
+  - first:
+      213: 2196282256403300142
+    second: northMangroveFallsTexturesAtlas0_193
+  - first:
+      213: -5561428674703527671
+    second: northMangroveFallsTexturesAtlas0_194
+  - first:
+      213: -4480368905002357724
+    second: northMangroveFallsTexturesAtlas0_195
+  - first:
+      213: 8036542841233497329
+    second: northMangroveFallsTexturesAtlas0_196
+  - first:
+      213: 6754919643635187250
+    second: northMangroveFallsTexturesAtlas0_197
+  - first:
+      213: 7127690348214200803
+    second: northMangroveFallsTexturesAtlas0_198
+  - first:
+      213: -4331808877802826463
+    second: northMangroveFallsTexturesAtlas0_199
+  - first:
+      213: -9105778029671405911
+    second: northMangroveFallsTexturesAtlas0_200
+  - first:
+      213: -6812641106523984055
+    second: northMangroveFallsTexturesAtlas0_201
+  - first:
+      213: -5740894633661562019
+    second: northMangroveFallsTexturesAtlas0_202
+  - first:
+      213: -1812831456221610807
+    second: northMangroveFallsTexturesAtlas0_203
+  - first:
+      213: 8218015181096653747
+    second: northMangroveFallsTexturesAtlas0_204
+  - first:
+      213: 8326493214851195133
+    second: northMangroveFallsTexturesAtlas0_205
+  - first:
+      213: 2017972033848188240
+    second: northMangroveFallsTexturesAtlas0_206
+  - first:
+      213: -9135860603899690233
+    second: northMangroveFallsTexturesAtlas0_207
+  - first:
+      213: 2926874429908427533
+    second: northMangroveFallsTexturesAtlas0_208
+  - first:
+      213: -8979556372593740931
+    second: northMangroveFallsTexturesAtlas0_209
+  - first:
+      213: 5799392652724990879
+    second: northMangroveFallsTexturesAtlas0_210
+  - first:
+      213: -8586214548033376196
+    second: northMangroveFallsTexturesAtlas0_211
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1727
+        width: 123
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46795459bb1dd37d0800000000000000
+      internalID: -2936960778382239900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1700
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60510040edfc55b00800000000000000
+      internalID: 816787459894416646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1671
+        width: 135
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3c204f7bc339830800000000000000
+      internalID: 4076668848470934463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_3
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1588
+        width: 141
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a45db5a0c46a940800000000000000
+      internalID: 5307012818276797078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1598
+        width: 120
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1198c864644a3c990800000000000000
+      internalID: -7366863943709718255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1579
+        width: 119
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98333dd8c13ce27e0800000000000000
+      internalID: -1788277474613578871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_6
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1667
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d06b967caceedb0800000000000000
+      internalID: -4760644798263194219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_7
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1539
+        width: 120
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d8a2a5d310becd0800000000000000
+      internalID: -2527925402821030580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_8
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1597
+        width: 5
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e6f1e21ae788220800000000000000
+      internalID: 2488378024850845287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_9
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1572
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b01cdd60e7ca980800000000000000
+      internalID: -8526301426563871966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_10
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1513
+        width: 136
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f5748b3e347f8c0800000000000000
+      internalID: -3965626301548109922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1453
+        width: 150
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f5442247f42dfe0800000000000000
+      internalID: -1165781993325830389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_12
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1429
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00bbf87d43869d60800000000000000
+      internalID: 7896643365406224399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1412
+        width: 109
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e9dd6af71afd990800000000000000
+      internalID: -7358985696467640792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_14
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1451
+        width: 126
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fc9a62ec017f460800000000000000
+      internalID: 7275302200638295826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1444
+        width: 76
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb730938f6a24100800000000000000
+      internalID: 90818527539461048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_16
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1375
+        width: 100
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc08c53d9c68ea40800000000000000
+      internalID: 5397683575871507703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_17
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1479
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc9568cefe2bf790800000000000000
+      internalID: -7495345483009385276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_18
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1486
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0db3e12a5df344a0800000000000000
+      internalID: -6610161264492298994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_19
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1301
+        width: 97
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc66c032143631b0800000000000000
+      internalID: -5677293027521565490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_20
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1443
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d159ef472bfef00800000000000000
+      internalID: 1148332645559901580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_21
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1311
+        width: 89
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fcbdccf205fa250800000000000000
+      internalID: 5958068998265098016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1262
+        width: 182
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b572873b3568bd00800000000000000
+      internalID: 988651423216596403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_23
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1236
+        width: 175
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71ec4838ebe5c550800000000000000
+      internalID: 6180605446245376382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_24
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1280
+        width: 136
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15d6d2d1fc6ba310800000000000000
+      internalID: 1417346293618365726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_25
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1367
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dba6cdea1493ad10800000000000000
+      internalID: 2135713491683027924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_26
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1394
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da3c62cdf98222b0800000000000000
+      internalID: -5610770462768612654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_27
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1370
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db06d4af511c08e0800000000000000
+      internalID: -1725985454704686126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_28
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1343
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde9411186c611470800000000000000
+      internalID: 8363585177222684380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_29
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1350
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c54cb9649a5bce0800000000000000
+      internalID: -1390018789247787908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_30
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1358
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a90a031a6001f30800000000000000
+      internalID: 4544139313392163368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_31
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1332
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9696a5795a5560bf0800000000000000
+      internalID: -358504950632126103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_32
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1305
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d01b67d1eaf58f0800000000000000
+      internalID: -549529187947311769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_33
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1199
+        width: 47
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769e01d40c1a2f520800000000000000
+      internalID: 2734425771066059111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_34
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1306
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc59adbc2060944f0800000000000000
+      internalID: -844136846075456053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_35
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1304
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed378236ed5ad540800000000000000
+      internalID: 5033438776811535841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_36
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1326
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff4ffaa6700f6800800000000000000
+      internalID: 607704984393306107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_37
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1327
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fe1d5e857640120800000000000000
+      internalID: 2379140134668988195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_38
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1121
+        width: 76
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7969fdd56bfe3b470800000000000000
+      internalID: 8409328495768868503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_39
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1292
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddbdf13aa7af0c10800000000000000
+      internalID: 2022019107137633755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_40
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1312
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c4919696799dd30800000000000000
+      internalID: 4456759785250442306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_41
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1281
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a94fe735822d3cf0800000000000000
+      internalID: -271022447007938141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_42
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1260
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d03d05dea045c70800000000000000
+      internalID: 8958797573126294870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_43
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1260
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490f660dc90ed9fe0800000000000000
+      internalID: -1180540563185274732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_44
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1274
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0d58130ed1b3120800000000000000
+      internalID: 2394540475618283712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_45
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1201
+        width: 41
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1bf16f50522ca00800000000000000
+      internalID: 775222793395483042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_46
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1269
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a54ef8aa632a5ed0800000000000000
+      internalID: -2424586508376848985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_47
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1093
+        width: 102
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59041360e3b26ac70800000000000000
+      internalID: 8981914052228890773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_48
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1091
+        width: 72
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0082e2ec22388ab0800000000000000
+      internalID: -5005695817455861750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_49
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1243
+        width: 4
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7917cbd164effb0800000000000000
+      internalID: -4612171874851252239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_50
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1282
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40923c8556f030df0800000000000000
+      internalID: -215311429228353276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_51
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1200
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218895c92514ec860800000000000000
+      internalID: 7552045448213137426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_52
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1213
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4970890903ee20370800000000000000
+      internalID: 8287448156666857364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_53
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1226
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876290fc0a52c7720800000000000000
+      internalID: 2845190437189789304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_54
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1226
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc04409d61fe18e40800000000000000
+      internalID: 5657065488363307213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_55
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1240
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155fc33cfbc72d240800000000000000
+      internalID: 4815048114668631377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_56
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1220
+        width: 4
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14c6ef57744a2530800000000000000
+      internalID: 3830949712532784155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_57
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1236
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8ebbcba59779180800000000000000
+      internalID: -9108678290713089800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_58
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1026
+        width: 116
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5bc799958e2a2b0800000000000000
+      internalID: -5574637917206432322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_59
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1016
+        width: 217
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f5e3a617a07c910800000000000000
+      internalID: 1857464853543673642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_60
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1021
+        width: 202
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ba8d9570b806820800000000000000
+      internalID: 2909478222969744209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_61
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1102
+        width: 150
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1c23d3b1e498c70800000000000000
+      internalID: 8973789611410244046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_62
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1228
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3e0df7b3cdf99e0800000000000000
+      internalID: -1612327993469770811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_63
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1212
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b252d6a54a36c3d20800000000000000
+      internalID: 3259589787852285227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_64
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1190
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f482ade9735fecd0800000000000000
+      internalID: -2526709082788559628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_65
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1125
+        width: 14
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45d8be0aedc0c5c0800000000000000
+      internalID: -4197128447556266674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_66
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1164
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28b515a092650b50800000000000000
+      internalID: 6558756805719472172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_67
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1153
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9126410d748b20070800000000000000
+      internalID: 8071216100774535705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_68
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 881
+        width: 86
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e13e4c5c1b98a40800000000000000
+      internalID: 5371019493585919528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_69
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1160
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b139ca75e00790d50800000000000000
+      internalID: 6704012727220474651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_70
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1152
+        width: 7
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf401cd8add94e50800000000000000
+      internalID: 6794205230181404621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_71
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1141
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc029eeca2398080800000000000000
+      internalID: -9184754246727103290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_72
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1089
+        width: 102
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9212bb87bf4a23b0800000000000000
+      internalID: -5536525142157290850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_73
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1136
+        width: 4
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a79a9fa6c389430800000000000000
+      internalID: 3789845516585106026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_74
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1123
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bda5aae62ad7210800000000000000
+      internalID: 1332399660959718278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_75
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1082
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2f34e411da27660800000000000000
+      internalID: 7382153029052789441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_76
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1110
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a298e58a3d9437e90800000000000000
+      internalID: -7029193419983517398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_77
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1113
+        width: 4
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8de2b828a0aa8820800000000000000
+      internalID: 2921323952400952716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_78
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1106
+        width: 5
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f992975d70c9dd0800000000000000
+      internalID: -2478097081518416091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_79
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1061
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1a44294559b7bb0800000000000000
+      internalID: -4937188376017853958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_80
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1076
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7827cfd208849c80800000000000000
+      internalID: -8316873065920780165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_81
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1052
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123594ad38840dec0800000000000000
+      internalID: -3544253175600426207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_82
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1087
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1d946d3f41446f0800000000000000
+      internalID: -701412604458184267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_83
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1092
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef18efdb89e30b4e0800000000000000
+      internalID: -1968004211417382402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_84
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1093
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c106961f18f5cf0800000000000000
+      internalID: -261347379509191660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_85
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1099
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6825f0f11def6a0800000000000000
+      internalID: -6413458887997749545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_86
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1048
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a2ebb28d8e76080800000000000000
+      internalID: -9194124099109115377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_87
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1029
+        width: 4
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac07462e095f5de10800000000000000
+      internalID: 2221951993799536842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_88
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 994
+        width: 18
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc106ad698d2e2280800000000000000
+      internalID: -9066258931576864305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_89
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 994
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3f9356224769310800000000000000
+      internalID: 1411443224303236071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_90
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1021
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b77860fe0b41f390800000000000000
+      internalID: -7786359753211873358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_91
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 874
+        width: 197
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a74cc1853097300800000000000000
+      internalID: 250234931270416934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_92
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 996
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a587823584a90e3a0800000000000000
+      internalID: -6638136215320627110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_93
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 822
+        width: 134
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50dd5dff4ab63de0800000000000000
+      internalID: -1353689785262288804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_94
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1006
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ee34dbe598de5d0800000000000000
+      internalID: -3031615934155198818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_95
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1013
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b076ebb7988c1a90800000000000000
+      internalID: -7341843107246870344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_96
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 802
+        width: 88
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb17d2a7982744490800000000000000
+      internalID: -7762953922894007873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_97
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 995
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aee0fcb5cd50a270800000000000000
+      internalID: 8259704820457336487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_98
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 854
+        width: 119
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed918248ac991b1a0800000000000000
+      internalID: -6795481267645703714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_99
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 995
+        width: 102
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cf2fcaf62f0d3f0800000000000000
+      internalID: -877935365880349593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_100
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 983
+        width: 117
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1696c696451c651f0800000000000000
+      internalID: -1056444494281676447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_101
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 966
+        width: 18
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755576e7304b71a40800000000000000
+      internalID: 5338933810369615191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_102
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 787
+        width: 224
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e48fff6cd5a6ad0800000000000000
+      internalID: -2708249116630561239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_103
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 925
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4a5936a79036f60800000000000000
+      internalID: 8026269382165767379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_104
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 810
+        width: 190
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f4ac1b4e6881dd0800000000000000
+      internalID: -2515112075092930681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_105
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 941
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b82037964f3fd9f0800000000000000
+      internalID: -441564666042242895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_106
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 911
+        width: 67
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a242223d4d9adcd0800000000000000
+      internalID: -2532538885563333980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_107
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 947
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed738e36b4b93aea0800000000000000
+      internalID: -5862671541805238306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_108
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 758
+        width: 65
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfce1d161a843ef60800000000000000
+      internalID: 8062367615891401979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_109
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 775
+        width: 72
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0325b19698987060800000000000000
+      internalID: 6951473797303444234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_110
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 737
+        width: 24
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177ed170d40d1d8a0800000000000000
+      internalID: -6282010975954671759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_111
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 911
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2ff535f2f7909d0800000000000000
+      internalID: -2807573051449806147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_112
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 878
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f615425ad0f4130800000000000000
+      internalID: 3553073633948692286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_113
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 877
+        width: 94
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ab25a118c6ce970800000000000000
+      internalID: 8785516274841205381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_114
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 519
+        width: 95
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8a1def142b3a3f0800000000000000
+      internalID: -890672304771454812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_115
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 857
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c6f78d17ca09bf0800000000000000
+      internalID: -319565968579793761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_116
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 886
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc78374e8f76a7e40800000000000000
+      internalID: 5654946600799406027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_117
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 818
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb70de30ae5978640800000000000000
+      internalID: 5082195536831645630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_118
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 891
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686173cc370507c00800000000000000
+      internalID: 896304784124352134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_119
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 834
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f4afb99e98bd180800000000000000
+      internalID: -9089519786479956199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_120
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 790
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e23ccebbf27d0570800000000000000
+      internalID: 8434524102698218212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_121
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 583
+        width: 240
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac37a27631b7e330800000000000000
+      internalID: 3740152862964399265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_122
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 828
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e8534e1aae21a20800000000000000
+      internalID: 3031743480213114460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_123
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 583
+        width: 136
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c621e1d906bf60160800000000000000
+      internalID: 6991551863910699628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_124
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 805
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9715db49746eb0700800000000000000
+      internalID: 507752578121814393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_125
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 770
+        width: 24
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfa6ef7717b302f0800000000000000
+      internalID: -1007760580042903627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_126
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 593
+        width: 264
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f4e146d2a79a570800000000000000
+      internalID: 8478442108873494333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_127
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 807
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd3026d46e2251e0800000000000000
+      internalID: -2210653456461447743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_128
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 796
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a5ebd37db8f0050800000000000000
+      internalID: 5768983404255009318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_129
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 784
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398eb7a73ae2c8210800000000000000
+      internalID: 1336494469091682451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_130
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 796
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99eae7cef6ec0af0800000000000000
+      internalID: -428713882556896867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_131
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 707
+        width: 39
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c5c5b15bbe9ba00800000000000000
+      internalID: 772907974151396439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_132
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 796
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ccf700b4de17eb0800000000000000
+      internalID: -4723733627748234139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_133
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 739
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776aae74ef558f6d0800000000000000
+      internalID: -2956518604752116105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_134
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 366
+        width: 62
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e06cf8d8613e920800000000000000
+      internalID: 3018280972526685809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_135
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 736
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56beefd444e03b310800000000000000
+      internalID: 1419493994080955237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_136
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 788
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15841765e26191eb0800000000000000
+      internalID: -4748739943810906031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_137
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 779
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b59c95b7a428d490800000000000000
+      internalID: -7721381258401638984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_138
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 788
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e2893fdbe645b40800000000000000
+      internalID: 5428085213003001449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_139
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 708
+        width: 74
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1e3da401b10b8f0800000000000000
+      internalID: -526891399613521499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_140
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 532
+        width: 268
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b01ccc843ffa240800000000000000
+      internalID: 4805326821426006846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_141
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 773
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffd4b653ab4b3870800000000000000
+      internalID: 8663601473083727865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_142
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 771
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf8011683931b840800000000000000
+      internalID: 5238030755918024642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_143
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 762
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d531cd69629d56db0800000000000000
+      internalID: -4799191068130405539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_144
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 772
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b27e3723084d490800000000000000
+      internalID: -7722406506852308087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_145
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 533
+        width: 250
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c7ffb91c007ced0800000000000000
+      internalID: -2393943845378229232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_146
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 748
+        width: 71
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266da58c8732db630800000000000000
+      internalID: 3944347850310866530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_147
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 760
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94e92be52cb276c0800000000000000
+      internalID: -4147045435809602402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_148
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 751
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a255b3e6234930b80800000000000000
+      internalID: -8429731133188778710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_149
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 713
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4acae0406f87150800000000000000
+      internalID: 5870712611563939025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_150
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 758
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dc6b93474dc2840800000000000000
+      internalID: 5200765265355656469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_151
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 754
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02e1e5debb852a40800000000000000
+      internalID: 5342830184693359114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_152
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 738
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3360517dd92c690800000000000000
+      internalID: -7583325275442236440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_153
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 720
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56b4b009a36ae600800000000000000
+      internalID: 498320286290327135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_154
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 750
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a567dfb4e5ddede0800000000000000
+      internalID: -1302149538792381024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_155
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 738
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf9d5da04d80c980800000000000000
+      internalID: -8520655186058960950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_156
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 732
+        width: 30
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c83ed7b28b8f550800000000000000
+      internalID: 6194903784383286414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_157
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 732
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12535d67a66a66aa0800000000000000
+      internalID: -6168059663446887135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_158
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 720
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9196a9f3647c59810800000000000000
+      internalID: 1771541132968880409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_159
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 334
+        width: 181
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c580cf8732778100800000000000000
+      internalID: 110182298854393288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_160
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 729
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826c7e0b27ce6fab0800000000000000
+      internalID: -4974528761045727704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_161
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 709
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28185c62d45ca5a0800000000000000
+      internalID: -6508734098719631317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_162
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 690
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925f80eb5b89c9cf0800000000000000
+      internalID: -244152373440088791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_163
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 707
+        width: 74
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dba84fcda9284310800000000000000
+      internalID: 1389406311527525330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_164
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 667
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee502901a66e5b980800000000000000
+      internalID: -8523653376509868562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_165
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 692
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0292814d9e4082a40800000000000000
+      internalID: 5343526360207337760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_166
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 686
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1b1180ec94abf70800000000000000
+      internalID: 9203749937732497864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_167
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 696
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73e5ae5e7d29eae0800000000000000
+      internalID: -1519633378483772545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_168
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 688
+        width: 56
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4177d3452cab0460800000000000000
+      internalID: 7209044904588570959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_169
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 624
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0252d21b7e09dd150800000000000000
+      internalID: 5899030411709588768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_170
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 596
+        width: 60
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c280707f242ca40800000000000000
+      internalID: 5386941733030866058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_171
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 676
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc506c0da2f02560800000000000000
+      internalID: 7287091022136368338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_172
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 677
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ae78eda5e08ced0800000000000000
+      internalID: -2393647418504123758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_173
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 679
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07581593a1327a80800000000000000
+      internalID: -8470653370479651061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_174
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 671
+        width: 45
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662053f55a181a350800000000000000
+      internalID: 6026240323665330790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_175
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 677
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747a22ca07e9ecb90800000000000000
+      internalID: -7219658945866848441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_176
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 671
+        width: 51
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91c8432ce6c86170800000000000000
+      internalID: 8172000241370317213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_177
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 600
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718724f8b47a3c7f0800000000000000
+      internalID: -593446782914889705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_178
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 647
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2f476da1cdae1a0800000000000000
+      internalID: -6779364281227611403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_179
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 639
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a948296de5be74e0800000000000000
+      internalID: -1981946754720314968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_180
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 637
+        width: 107
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02c7c047a3223930800000000000000
+      internalID: 4121395810250768908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_181
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 647
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be89271013c1fc8d0800000000000000
+      internalID: -2824007444534748949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_182
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 597
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd794f942184895e0800000000000000
+      internalID: -1902691599176656933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_183
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 635
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ba8a4bdd4b2dca0800000000000000
+      internalID: -5993529289764983909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_184
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 635
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfabd48aff41ca70800000000000000
+      internalID: 8845439080521773005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_185
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 631
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed99c1e8395dd00f0800000000000000
+      internalID: -1149027500188460578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_186
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 596
+        width: 13
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbb09c41ceab51b0800000000000000
+      internalID: -5666743560879162424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_187
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 629
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ca1f50bc25dc910800000000000000
+      internalID: 1859233253105445971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_188
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 624
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dbe19415fccf270800000000000000
+      internalID: 8285725362480922000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_189
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 629
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722785c98323d6f80800000000000000
+      internalID: -8111772135101795801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_190
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 624
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a64a0b5b4c9ef6f0800000000000000
+      internalID: -648909448830892375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_191
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 624
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1e8837f16ee18c0800000000000000
+      internalID: -4026527994065919543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_192
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 527
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc507809d6480b000800000000000000
+      internalID: 49685202012145101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_193
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 412
+        width: 405
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f79676313ca7e10800000000000000
+      internalID: 2196282256403300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_194
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 355
+        width: 264
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901ff980616d1d2b0800000000000000
+      internalID: -5561428674703527671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_195
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 494
+        width: 75
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ce0aa083882d1c0800000000000000
+      internalID: -4480368905002357724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_196
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 298
+        width: 273
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc5ee97229878f60800000000000000
+      internalID: 8036542841233497329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_197
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 450
+        width: 18
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23efe2570ab4ebd50800000000000000
+      internalID: 6754919643635187250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_198
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 3
+        width: 94
+        height: 497
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9a94a8b94aae260800000000000000
+      internalID: 7127690348214200803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_199
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 359
+        width: 59
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125ddabc6c252e3c0800000000000000
+      internalID: -4331808877802826463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_200
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 473
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a621e16027c1a180800000000000000
+      internalID: -9105778029671405911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_201
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 471
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fe96f2203a471a0800000000000000
+      internalID: -6812641106523984055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_202
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 3
+        width: 407
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5308ab4fbe3450b0800000000000000
+      internalID: -5740894633661562019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_203
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 397
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccb146356787d6e0800000000000000
+      internalID: -1812831456221610807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_204
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 368
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3980c24414c0270800000000000000
+      internalID: 8218015181096653747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_205
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 315
+        width: 5
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0e7e79675ad8370800000000000000
+      internalID: 8326493214851195133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_206
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 3
+        width: 347
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d91348fd6410c10800000000000000
+      internalID: 2017972033848188240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_207
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 338
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703c2134f27e63180800000000000000
+      internalID: -9135860603899690233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_208
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 3
+        width: 315
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03add869c85e9820800000000000000
+      internalID: 2926874429908427533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_209
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 319
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7374fa0e05326380800000000000000
+      internalID: -8979556372593740931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_210
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 180
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93fea224e49b7050800000000000000
+      internalID: 5799392652724990879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_211
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 3
+        width: 275
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30fd2b3c53a7d880800000000000000
+      internalID: -8586214548033376196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_212
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 156
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8786c6797e0f9247873b5b60ffc7e6f
+      internalID: 1833822165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_213
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 25
+        width: 11
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aecf30df194bf9469208776dd0ed50d
+      internalID: 2031983065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: northMangroveFallsTexturesAtlas0_214
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 27
+        width: 17
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48542bca2763d94daa61734468da579
+      internalID: 13238355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: efee5581117f5b64dbeaad16634a8348
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      northMangroveFallsTexturesAtlas0_0: -2936960778382239900
+      northMangroveFallsTexturesAtlas0_1: 816787459894416646
+      northMangroveFallsTexturesAtlas0_10: -3965626301548109922
+      northMangroveFallsTexturesAtlas0_100: -1056444494281676447
+      northMangroveFallsTexturesAtlas0_101: 5338933810369615191
+      northMangroveFallsTexturesAtlas0_102: -2708249116630561239
+      northMangroveFallsTexturesAtlas0_103: 8026269382165767379
+      northMangroveFallsTexturesAtlas0_104: -2515112075092930681
+      northMangroveFallsTexturesAtlas0_105: -441564666042242895
+      northMangroveFallsTexturesAtlas0_106: -2532538885563333980
+      northMangroveFallsTexturesAtlas0_107: -5862671541805238306
+      northMangroveFallsTexturesAtlas0_108: 8062367615891401979
+      northMangroveFallsTexturesAtlas0_109: 6951473797303444234
+      northMangroveFallsTexturesAtlas0_11: -1165781993325830389
+      northMangroveFallsTexturesAtlas0_110: -6282010975954671759
+      northMangroveFallsTexturesAtlas0_111: -2807573051449806147
+      northMangroveFallsTexturesAtlas0_112: 3553073633948692286
+      northMangroveFallsTexturesAtlas0_113: 8785516274841205381
+      northMangroveFallsTexturesAtlas0_114: -890672304771454812
+      northMangroveFallsTexturesAtlas0_115: -319565968579793761
+      northMangroveFallsTexturesAtlas0_116: 5654946600799406027
+      northMangroveFallsTexturesAtlas0_117: 5082195536831645630
+      northMangroveFallsTexturesAtlas0_118: 896304784124352134
+      northMangroveFallsTexturesAtlas0_119: -9089519786479956199
+      northMangroveFallsTexturesAtlas0_12: 7896643365406224399
+      northMangroveFallsTexturesAtlas0_120: 8434524102698218212
+      northMangroveFallsTexturesAtlas0_121: 3740152862964399265
+      northMangroveFallsTexturesAtlas0_122: 3031743480213114460
+      northMangroveFallsTexturesAtlas0_123: 6991551863910699628
+      northMangroveFallsTexturesAtlas0_124: 507752578121814393
+      northMangroveFallsTexturesAtlas0_125: -1007760580042903627
+      northMangroveFallsTexturesAtlas0_126: 8478442108873494333
+      northMangroveFallsTexturesAtlas0_127: -2210653456461447743
+      northMangroveFallsTexturesAtlas0_128: 5768983404255009318
+      northMangroveFallsTexturesAtlas0_129: 1336494469091682451
+      northMangroveFallsTexturesAtlas0_13: -7358985696467640792
+      northMangroveFallsTexturesAtlas0_130: -428713882556896867
+      northMangroveFallsTexturesAtlas0_131: 772907974151396439
+      northMangroveFallsTexturesAtlas0_132: -4723733627748234139
+      northMangroveFallsTexturesAtlas0_133: -2956518604752116105
+      northMangroveFallsTexturesAtlas0_134: 3018280972526685809
+      northMangroveFallsTexturesAtlas0_135: 1419493994080955237
+      northMangroveFallsTexturesAtlas0_136: -4748739943810906031
+      northMangroveFallsTexturesAtlas0_137: -7721381258401638984
+      northMangroveFallsTexturesAtlas0_138: 5428085213003001449
+      northMangroveFallsTexturesAtlas0_139: -526891399613521499
+      northMangroveFallsTexturesAtlas0_14: 7275302200638295826
+      northMangroveFallsTexturesAtlas0_140: 4805326821426006846
+      northMangroveFallsTexturesAtlas0_141: 8663601473083727865
+      northMangroveFallsTexturesAtlas0_142: 5238030755918024642
+      northMangroveFallsTexturesAtlas0_143: -4799191068130405539
+      northMangroveFallsTexturesAtlas0_144: -7722406506852308087
+      northMangroveFallsTexturesAtlas0_145: -2393943845378229232
+      northMangroveFallsTexturesAtlas0_146: 3944347850310866530
+      northMangroveFallsTexturesAtlas0_147: -4147045435809602402
+      northMangroveFallsTexturesAtlas0_148: -8429731133188778710
+      northMangroveFallsTexturesAtlas0_149: 5870712611563939025
+      northMangroveFallsTexturesAtlas0_15: 90818527539461048
+      northMangroveFallsTexturesAtlas0_150: 5200765265355656469
+      northMangroveFallsTexturesAtlas0_151: 5342830184693359114
+      northMangroveFallsTexturesAtlas0_152: -7583325275442236440
+      northMangroveFallsTexturesAtlas0_153: 498320286290327135
+      northMangroveFallsTexturesAtlas0_154: -1302149538792381024
+      northMangroveFallsTexturesAtlas0_155: -8520655186058960950
+      northMangroveFallsTexturesAtlas0_156: 6194903784383286414
+      northMangroveFallsTexturesAtlas0_157: -6168059663446887135
+      northMangroveFallsTexturesAtlas0_158: 1771541132968880409
+      northMangroveFallsTexturesAtlas0_159: 110182298854393288
+      northMangroveFallsTexturesAtlas0_16: 5397683575871507703
+      northMangroveFallsTexturesAtlas0_160: -4974528761045727704
+      northMangroveFallsTexturesAtlas0_161: -6508734098719631317
+      northMangroveFallsTexturesAtlas0_162: -244152373440088791
+      northMangroveFallsTexturesAtlas0_163: 1389406311527525330
+      northMangroveFallsTexturesAtlas0_164: -8523653376509868562
+      northMangroveFallsTexturesAtlas0_165: 5343526360207337760
+      northMangroveFallsTexturesAtlas0_166: 9203749937732497864
+      northMangroveFallsTexturesAtlas0_167: -1519633378483772545
+      northMangroveFallsTexturesAtlas0_168: 7209044904588570959
+      northMangroveFallsTexturesAtlas0_169: 5899030411709588768
+      northMangroveFallsTexturesAtlas0_17: -7495345483009385276
+      northMangroveFallsTexturesAtlas0_170: 5386941733030866058
+      northMangroveFallsTexturesAtlas0_171: 7287091022136368338
+      northMangroveFallsTexturesAtlas0_172: -2393647418504123758
+      northMangroveFallsTexturesAtlas0_173: -8470653370479651061
+      northMangroveFallsTexturesAtlas0_174: 6026240323665330790
+      northMangroveFallsTexturesAtlas0_175: -7219658945866848441
+      northMangroveFallsTexturesAtlas0_176: 8172000241370317213
+      northMangroveFallsTexturesAtlas0_177: -593446782914889705
+      northMangroveFallsTexturesAtlas0_178: -6779364281227611403
+      northMangroveFallsTexturesAtlas0_179: -1981946754720314968
+      northMangroveFallsTexturesAtlas0_18: -6610161264492298994
+      northMangroveFallsTexturesAtlas0_180: 4121395810250768908
+      northMangroveFallsTexturesAtlas0_181: -2824007444534748949
+      northMangroveFallsTexturesAtlas0_182: -1902691599176656933
+      northMangroveFallsTexturesAtlas0_183: -5993529289764983909
+      northMangroveFallsTexturesAtlas0_184: 8845439080521773005
+      northMangroveFallsTexturesAtlas0_185: -1149027500188460578
+      northMangroveFallsTexturesAtlas0_186: -5666743560879162424
+      northMangroveFallsTexturesAtlas0_187: 1859233253105445971
+      northMangroveFallsTexturesAtlas0_188: 8285725362480922000
+      northMangroveFallsTexturesAtlas0_189: -8111772135101795801
+      northMangroveFallsTexturesAtlas0_19: -5677293027521565490
+      northMangroveFallsTexturesAtlas0_190: -648909448830892375
+      northMangroveFallsTexturesAtlas0_191: -4026527994065919543
+      northMangroveFallsTexturesAtlas0_192: 49685202012145101
+      northMangroveFallsTexturesAtlas0_193: 2196282256403300142
+      northMangroveFallsTexturesAtlas0_194: -5561428674703527671
+      northMangroveFallsTexturesAtlas0_195: -4480368905002357724
+      northMangroveFallsTexturesAtlas0_196: 8036542841233497329
+      northMangroveFallsTexturesAtlas0_197: 6754919643635187250
+      northMangroveFallsTexturesAtlas0_198: 7127690348214200803
+      northMangroveFallsTexturesAtlas0_199: -4331808877802826463
+      northMangroveFallsTexturesAtlas0_2: 4076668848470934463
+      northMangroveFallsTexturesAtlas0_20: 1148332645559901580
+      northMangroveFallsTexturesAtlas0_200: -9105778029671405911
+      northMangroveFallsTexturesAtlas0_201: -6812641106523984055
+      northMangroveFallsTexturesAtlas0_202: -5740894633661562019
+      northMangroveFallsTexturesAtlas0_203: -1812831456221610807
+      northMangroveFallsTexturesAtlas0_204: 8218015181096653747
+      northMangroveFallsTexturesAtlas0_205: 8326493214851195133
+      northMangroveFallsTexturesAtlas0_206: 2017972033848188240
+      northMangroveFallsTexturesAtlas0_207: -9135860603899690233
+      northMangroveFallsTexturesAtlas0_208: 2926874429908427533
+      northMangroveFallsTexturesAtlas0_209: -8979556372593740931
+      northMangroveFallsTexturesAtlas0_21: 5958068998265098016
+      northMangroveFallsTexturesAtlas0_210: 5799392652724990879
+      northMangroveFallsTexturesAtlas0_211: -8586214548033376196
+      northMangroveFallsTexturesAtlas0_212: 1833822165
+      northMangroveFallsTexturesAtlas0_213: 2031983065
+      northMangroveFallsTexturesAtlas0_214: 13238355
+      northMangroveFallsTexturesAtlas0_22: 988651423216596403
+      northMangroveFallsTexturesAtlas0_23: 6180605446245376382
+      northMangroveFallsTexturesAtlas0_24: 1417346293618365726
+      northMangroveFallsTexturesAtlas0_25: 2135713491683027924
+      northMangroveFallsTexturesAtlas0_26: -5610770462768612654
+      northMangroveFallsTexturesAtlas0_27: -1725985454704686126
+      northMangroveFallsTexturesAtlas0_28: 8363585177222684380
+      northMangroveFallsTexturesAtlas0_29: -1390018789247787908
+      northMangroveFallsTexturesAtlas0_3: 5307012818276797078
+      northMangroveFallsTexturesAtlas0_30: 4544139313392163368
+      northMangroveFallsTexturesAtlas0_31: -358504950632126103
+      northMangroveFallsTexturesAtlas0_32: -549529187947311769
+      northMangroveFallsTexturesAtlas0_33: 2734425771066059111
+      northMangroveFallsTexturesAtlas0_34: -844136846075456053
+      northMangroveFallsTexturesAtlas0_35: 5033438776811535841
+      northMangroveFallsTexturesAtlas0_36: 607704984393306107
+      northMangroveFallsTexturesAtlas0_37: 2379140134668988195
+      northMangroveFallsTexturesAtlas0_38: 8409328495768868503
+      northMangroveFallsTexturesAtlas0_39: 2022019107137633755
+      northMangroveFallsTexturesAtlas0_4: -7366863943709718255
+      northMangroveFallsTexturesAtlas0_40: 4456759785250442306
+      northMangroveFallsTexturesAtlas0_41: -271022447007938141
+      northMangroveFallsTexturesAtlas0_42: 8958797573126294870
+      northMangroveFallsTexturesAtlas0_43: -1180540563185274732
+      northMangroveFallsTexturesAtlas0_44: 2394540475618283712
+      northMangroveFallsTexturesAtlas0_45: 775222793395483042
+      northMangroveFallsTexturesAtlas0_46: -2424586508376848985
+      northMangroveFallsTexturesAtlas0_47: 8981914052228890773
+      northMangroveFallsTexturesAtlas0_48: -5005695817455861750
+      northMangroveFallsTexturesAtlas0_49: -4612171874851252239
+      northMangroveFallsTexturesAtlas0_5: -1788277474613578871
+      northMangroveFallsTexturesAtlas0_50: -215311429228353276
+      northMangroveFallsTexturesAtlas0_51: 7552045448213137426
+      northMangroveFallsTexturesAtlas0_52: 8287448156666857364
+      northMangroveFallsTexturesAtlas0_53: 2845190437189789304
+      northMangroveFallsTexturesAtlas0_54: 5657065488363307213
+      northMangroveFallsTexturesAtlas0_55: 4815048114668631377
+      northMangroveFallsTexturesAtlas0_56: 3830949712532784155
+      northMangroveFallsTexturesAtlas0_57: -9108678290713089800
+      northMangroveFallsTexturesAtlas0_58: -5574637917206432322
+      northMangroveFallsTexturesAtlas0_59: 1857464853543673642
+      northMangroveFallsTexturesAtlas0_6: -4760644798263194219
+      northMangroveFallsTexturesAtlas0_60: 2909478222969744209
+      northMangroveFallsTexturesAtlas0_61: 8973789611410244046
+      northMangroveFallsTexturesAtlas0_62: -1612327993469770811
+      northMangroveFallsTexturesAtlas0_63: 3259589787852285227
+      northMangroveFallsTexturesAtlas0_64: -2526709082788559628
+      northMangroveFallsTexturesAtlas0_65: -4197128447556266674
+      northMangroveFallsTexturesAtlas0_66: 6558756805719472172
+      northMangroveFallsTexturesAtlas0_67: 8071216100774535705
+      northMangroveFallsTexturesAtlas0_68: 5371019493585919528
+      northMangroveFallsTexturesAtlas0_69: 6704012727220474651
+      northMangroveFallsTexturesAtlas0_7: -2527925402821030580
+      northMangroveFallsTexturesAtlas0_70: 6794205230181404621
+      northMangroveFallsTexturesAtlas0_71: -9184754246727103290
+      northMangroveFallsTexturesAtlas0_72: -5536525142157290850
+      northMangroveFallsTexturesAtlas0_73: 3789845516585106026
+      northMangroveFallsTexturesAtlas0_74: 1332399660959718278
+      northMangroveFallsTexturesAtlas0_75: 7382153029052789441
+      northMangroveFallsTexturesAtlas0_76: -7029193419983517398
+      northMangroveFallsTexturesAtlas0_77: 2921323952400952716
+      northMangroveFallsTexturesAtlas0_78: -2478097081518416091
+      northMangroveFallsTexturesAtlas0_79: -4937188376017853958
+      northMangroveFallsTexturesAtlas0_8: 2488378024850845287
+      northMangroveFallsTexturesAtlas0_80: -8316873065920780165
+      northMangroveFallsTexturesAtlas0_81: -3544253175600426207
+      northMangroveFallsTexturesAtlas0_82: -701412604458184267
+      northMangroveFallsTexturesAtlas0_83: -1968004211417382402
+      northMangroveFallsTexturesAtlas0_84: -261347379509191660
+      northMangroveFallsTexturesAtlas0_85: -6413458887997749545
+      northMangroveFallsTexturesAtlas0_86: -9194124099109115377
+      northMangroveFallsTexturesAtlas0_87: 2221951993799536842
+      northMangroveFallsTexturesAtlas0_88: -9066258931576864305
+      northMangroveFallsTexturesAtlas0_89: 1411443224303236071
+      northMangroveFallsTexturesAtlas0_9: -8526301426563871966
+      northMangroveFallsTexturesAtlas0_90: -7786359753211873358
+      northMangroveFallsTexturesAtlas0_91: 250234931270416934
+      northMangroveFallsTexturesAtlas0_92: -6638136215320627110
+      northMangroveFallsTexturesAtlas0_93: -1353689785262288804
+      northMangroveFallsTexturesAtlas0_94: -3031615934155198818
+      northMangroveFallsTexturesAtlas0_95: -7341843107246870344
+      northMangroveFallsTexturesAtlas0_96: -7762953922894007873
+      northMangroveFallsTexturesAtlas0_97: 8259704820457336487
+      northMangroveFallsTexturesAtlas0_98: -6795481267645703714
+      northMangroveFallsTexturesAtlas0_99: -877935365880349593
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1b3a4562e316dac408a112437d7bb83b
+timeCreated: 1531772299
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85564
+  packageName: Forest Sprite Pack
+  packageVersion: 2.1
+  assetPath: Assets/Forest Sprite Pack/Ferr2D/Terrain Materials/BgVista3 Lit Ferr2DMaterial.asset
+  uploadId: 302623

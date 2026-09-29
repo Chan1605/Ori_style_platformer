@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: d319d0402493f1b41a22836c92cb3244
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3469269245663281337
+    second: microsoftStudiosWhite_0
+  - first:
+      213: -5289187145583513579
+    second: microsoftStudiosWhite_1
+  - first:
+      213: 7211807430059297332
+    second: microsoftStudiosWhite_2
+  - first:
+      213: 5784006956796291592
+    second: microsoftStudiosWhite_3
+  - first:
+      213: -2708693594915972770
+    second: microsoftStudiosWhite_4
+  - first:
+      213: 4674872717045509367
+    second: microsoftStudiosWhite_5
+  - first:
+      213: 3543113861601329754
+    second: microsoftStudiosWhite_6
+  - first:
+      213: -6174826084892254985
+    second: microsoftStudiosWhite_7
+  - first:
+      213: -928041596005515828
+    second: microsoftStudiosWhite_8
+  - first:
+      213: -3618070743459528144
+    second: microsoftStudiosWhite_9
+  - first:
+      213: 4827489671220005579
+    second: microsoftStudiosWhite_10
+  - first:
+      213: 8234880746125031463
+    second: microsoftStudiosWhite_11
+  - first:
+      213: 5766938057126449592
+    second: microsoftStudiosWhite_12
+  - first:
+      213: 7305273422706631799
+    second: microsoftStudiosWhite_13
+  - first:
+      213: -3877623549248421223
+    second: microsoftStudiosWhite_14
+  - first:
+      213: 8094676175586822881
+    second: microsoftStudiosWhite_15
+  - first:
+      213: -1882802674826600073
+    second: microsoftStudiosWhite_16
+  - first:
+      213: -7159129121760711333
+    second: microsoftStudiosWhite_17
+  - first:
+      213: 6334419696786837969
+    second: microsoftStudiosWhite_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: microsoftStudiosWhite_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 159
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b082f97ff1552030800000000000000
+      internalID: 3469269245663281337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microsoftStudiosWhite_1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 227
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510beec70580996b0800000000000000
+      internalID: -5289187145583513579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microsoftStudiosWhite_2
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 159
+        width: 36
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a0539d5ac751460800000000000000
+      internalID: 7211807430059297332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microsoftStudiosWhite_3
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 158
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a2b36aeabe44050800000000000000
+      internalID: 5784006956796291592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microsoftStudiosWhite_4
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 158
+        width: 55
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5958a5d689c86ad0800000000000000
+      internalID: -2708693594915972770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microsoftStudiosWhite_5
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 158
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fca9a5b7fb70e040800000000000000
+      internalID: 4674872717045509367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microsoftStudiosWhite_6
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 155
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52828fe84bab2130800000000000000
+      internalID: 3543113861601329754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microsoftStudiosWhite_7
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 222
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc5e24346c9e4aa0800000000000000
+      internalID: -6174826084892254985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microsoftStudiosWhite_8
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 159
+        width: 12
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdfd4dd51fee13f0800000000000000
+      internalID: -928041596005515828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microsoftStudiosWhite_9
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 158
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0328cd304d70acdc0800000000000000
+      internalID: -3618070743459528144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microsoftStudiosWhite_10
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 159
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca8fe16740bef240800000000000000
+      internalID: 4827489671220005579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microsoftStudiosWhite_11
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 158
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7287c78886c284270800000000000000
+      internalID: 8234880746125031463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microsoftStudiosWhite_12
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 158
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b114b0cb97480050800000000000000
+      internalID: 5766938057126449592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microsoftStudiosWhite_13
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 158
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774e783197b816560800000000000000
+      internalID: 7305273422706631799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microsoftStudiosWhite_14
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 158
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992cb5e2de9ef2ac0800000000000000
+      internalID: -3877623549248421223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microsoftStudiosWhite_15
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 159
+        width: 20
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea8ba12811165070800000000000000
+      internalID: 8094676175586822881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microsoftStudiosWhite_16
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 158
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7712ec851f0fed5e0800000000000000
+      internalID: -1882802674826600073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microsoftStudiosWhite_17
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 158
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d6c449ef9a5ac90800000000000000
+      internalID: -7159129121760711333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microsoftStudiosWhite_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 13
+        width: 802
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1973d272168e750800000000000000
+      internalID: 6334419696786837969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      microsoftStudiosWhite_0: 3469269245663281337
+      microsoftStudiosWhite_1: -5289187145583513579
+      microsoftStudiosWhite_10: 4827489671220005579
+      microsoftStudiosWhite_11: 8234880746125031463
+      microsoftStudiosWhite_12: 5766938057126449592
+      microsoftStudiosWhite_13: 7305273422706631799
+      microsoftStudiosWhite_14: -3877623549248421223
+      microsoftStudiosWhite_15: 8094676175586822881
+      microsoftStudiosWhite_16: -1882802674826600073
+      microsoftStudiosWhite_17: -7159129121760711333
+      microsoftStudiosWhite_18: 6334419696786837969
+      microsoftStudiosWhite_2: 7211807430059297332
+      microsoftStudiosWhite_3: 5784006956796291592
+      microsoftStudiosWhite_4: -2708693594915972770
+      microsoftStudiosWhite_5: 4674872717045509367
+      microsoftStudiosWhite_6: 3543113861601329754
+      microsoftStudiosWhite_7: -6174826084892254985
+      microsoftStudiosWhite_8: -928041596005515828
+      microsoftStudiosWhite_9: -3618070743459528144
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

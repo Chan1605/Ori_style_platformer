@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 28cb044262411454da01b55d096e7517
+timeCreated: 1522719562
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85564
+  packageName: Forest Sprite Pack
+  packageVersion: 2.1
+  assetPath: Assets/Forest Sprite Pack/Scripts/Hazards and Obstacles Update 05/Trampoline.cs
+  uploadId: 302623

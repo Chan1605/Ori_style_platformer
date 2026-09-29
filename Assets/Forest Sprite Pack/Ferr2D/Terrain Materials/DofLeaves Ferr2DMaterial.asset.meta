@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b756c66a376813e4f8265923db001a19
+timeCreated: 1529019517
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85564
+  packageName: Forest Sprite Pack
+  packageVersion: 2.1
+  assetPath: Assets/Forest Sprite Pack/Ferr2D/Terrain Materials/DofLeaves Ferr2DMaterial.asset
+  uploadId: 302623

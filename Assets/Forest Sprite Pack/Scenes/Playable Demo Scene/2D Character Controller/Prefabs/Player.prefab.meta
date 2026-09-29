@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 58d0b3bc183b2e543bc1a1fd711b9d88
+timeCreated: 1522374828
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85564
+  packageName: Forest Sprite Pack
+  packageVersion: 2.1
+  assetPath: Assets/Forest Sprite Pack/Scenes/Playable Demo Scene/2D Character Controller/Prefabs/Player.prefab
+  uploadId: 302623
